@@ -10,4 +10,4 @@ It contains many libraries as below;
 - Retrofit
 - OkHttp
 
-I've use my own api, it's working at heroku. You can use it without making any changes.      
+I've use my own api for some http tests, it's working at heroku. You can use it without making any changes.      
